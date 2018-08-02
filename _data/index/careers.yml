@@ -1,29 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: The MathWorks
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at The MathWorks cross functionally on a variety of projects. I resolved user pains by designing a process.
+    This was used by 6 managers. I extensively User Researched a product feature and presented to the design and development team to get clarity on the details. This feature is coming up in the next release. Created dashboards for my team for metrics and analysis purpose.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jan 2018 - Aug 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Products Intern
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Allianz
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Allianz as a Front End Engineer ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: July. 2014 - Sept 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Front End Developer
     i18n: company_b_job
   icon: fa-plus-square
